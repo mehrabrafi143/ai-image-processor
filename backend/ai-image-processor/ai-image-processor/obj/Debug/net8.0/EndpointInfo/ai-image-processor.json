@@ -1,0 +1,22 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "Image Processor API",
+    "version": "v1"
+  },
+  "paths": {
+    "/api/Process": {
+      "post": {
+        "tags": [
+          "Process"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": { }
+}

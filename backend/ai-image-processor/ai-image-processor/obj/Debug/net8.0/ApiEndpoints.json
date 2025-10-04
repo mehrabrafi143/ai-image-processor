@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "ImageProcessor.API.Controllers.ProcessController",
+    "Method": "ProcessImage",
+    "RelativePath": "api/Process",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
